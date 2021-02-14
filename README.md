@@ -4,4 +4,4 @@
 
 MySQL Server
 
-Logo após isso você deverá criar um MySQL Connection com as seguintes configurações:
+Logo após isso você deverá criar um Schema com o nome de 'blog'
